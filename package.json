@@ -1,0 +1,18 @@
+{
+  "name": "ChiakiBotami",
+  "version": "0.0.0",
+  "description": "A Twitch Moderator Bot that gives Smash/Rival info and other various commands",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error : no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/CSweetman/ChiakiBotami.git",
+  "author": "Christopher \"Akito\" Sweetman ",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "esm": "^3.2.25",
+    "tmi.js": "^1.8.3"
+  }
+}
